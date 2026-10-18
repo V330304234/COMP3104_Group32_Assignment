@@ -1,2 +1,2 @@
-- The course COMP3104 covers version control systems such as Git, branching, merging, and GitHub collaboration
-- COMP3104 topics demonstrate how DevOps can help development teams manage code changes, identify problems, and deliver software more efficiently
+- COMP3104 teaches version control tools like Git, including how to branch, merge, and collaborate through GitHub.
+- The topics in COMP3104 show how DevOps helps development teams track code changes, spot issues, and release software more efficiently.
