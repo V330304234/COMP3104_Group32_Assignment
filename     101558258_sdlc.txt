@@ -1,0 +1,3 @@
+- DevOps strengthens the SDLC by encouraging teamwork between teams and by tracking code changes through version control.
+- DevOps speeds up the SDLC by automating testing and the release of software.
+- Continuous integration and continuous delivery help teams release software more frequently and reliably throughout the SDLC.

@@ -2,6 +2,7 @@
 
 ## Group Members
 - **Leader:** Vinoj Rajendran (101515911) - [GitHub](https://github.com/V330304234)
+- **Team Member:** Nyla (101558258)
 
 
 ## Project Description
