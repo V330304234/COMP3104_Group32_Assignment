@@ -35,6 +35,8 @@ This repository was created for COMP3104 DevOps Assignment #1. It showcases bran
    ```
 
 
-## CI/CD Setup
+## CI/CD Pipeline
+GitHub Actions automatically runs the CI workflow whenever changes are pushed to the repository. 
 
 ## Branching Strategy
+Each group member works on an individual branch. Changes are pushed and merged into main branch through pull requests.
