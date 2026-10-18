@@ -1,2 +1,3 @@
 - COMP3104 teaches version control tools like Git, including how to branch, merge, and collaborate through GitHub.
 - The topics in COMP3104 show how DevOps helps development teams track code changes, spot issues, and release software more efficiently.
+- Continuous integration helps developers detect problems early by regularly integrating code changes and running automated tests.
