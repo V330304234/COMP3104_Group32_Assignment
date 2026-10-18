@@ -1,1 +1,1 @@
-Software Development Lifecycle
+The Software Development Life Cycle (SDLC) is a structured framework that divides the software development process into measurable tasks that can be assigned and completed.
