@@ -1,0 +1,2 @@
+- DevOps improves the SDLC through better collaboration and version control.
+- DevOps makes the SDLC more efficient through automated testing and software deployment
