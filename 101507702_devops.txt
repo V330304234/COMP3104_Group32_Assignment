@@ -1,0 +1,5 @@
+DevOps combines software development and IT operations to improve the software delivery process.
+
+It promotes collaboration, automation, continuous integration, and continuous delivery.
+
+COMP3104 introduces tools and practices used to build, test, and deploy software efficiently.
