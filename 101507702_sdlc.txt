@@ -5,3 +5,5 @@ DevOps improves the SDLC by encouraging collaboration between development and op
 Automation and continuous integration help teams deliver software faster and with fewer errors.
 
 Using DevOps practices throughout the SDLC can improve collaboration, software quality, and delivery speed.
+
+CI/CD practices help automate the build, testing, and deployment stages of the SDLC.
