@@ -3,3 +3,5 @@ The Software Development Life Cycle (SDLC) is a structured process used to plan,
 DevOps improves the SDLC by encouraging collaboration between development and operations teams.
 
 Automation and continuous integration help teams deliver software faster and with fewer errors.
+
+Using DevOps practices throughout the SDLC can improve collaboration, software quality, and delivery speed.
